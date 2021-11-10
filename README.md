@@ -1,0 +1,2 @@
+# minminaya-test
+test func
